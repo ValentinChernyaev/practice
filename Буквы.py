@@ -19,9 +19,9 @@ speed('slow')
 
 for i in simvol:
 
-   if i=='l': left(15)
-   if i=='r': right(15)
-   if i=='g': forward(15)
+   if i=='l': left(13)
+   if i=='r': right(13)
+   if i=='g': forward(13)
 
 
 
